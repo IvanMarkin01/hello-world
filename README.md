@@ -1,2 +1,4 @@
 # hello-world
-First repository
+Hi, everybody!
+
+It nothing but a first me repository!
